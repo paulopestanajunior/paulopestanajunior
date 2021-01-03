@@ -34,4 +34,4 @@ Trabalho com análise de dados na área de e-commerce e marketing digital.
 
 # Dashboards
 
-[Análise de afiliados mensal](/dashboards/
+- [Análise de afiliados mensal](/dashboards/dash-an%C3%A1lise-de-afiliados.png)
