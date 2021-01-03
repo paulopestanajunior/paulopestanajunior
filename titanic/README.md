@@ -1,3 +1,5 @@
+![](/titanic/header.png)
+
 # Project Charter
 
 ## Entendimento de negócio

@@ -1,3 +1,5 @@
+![](/newyork/header.png)
+
 # Previsão de tarifa de táxi de Nova Iorque
 
 A idéia de projeto veio a partir da competição do Kaggle: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview. Abaixo a descrição:
