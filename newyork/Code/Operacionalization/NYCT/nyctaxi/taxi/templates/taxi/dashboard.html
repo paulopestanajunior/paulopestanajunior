@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset='utf-8'>
+  <title>dashboard</title>
+  <style>
+            html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+                background-color: "#992200";
+            },
+            div{
+                height: 70%;
+            }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>Portal de Vinhos</h1>
+
+      {% load plotly_dash %}
+
+      {% plotly_app name="WineDashboard" %}
+    </div>
+</body>
