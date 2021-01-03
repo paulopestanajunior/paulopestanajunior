@@ -27,6 +27,7 @@ Trabalho com análise de dados na área de e-commerce e marketing digital.
 # Projetos:
 
 ## Classificação
+- [RH prevendo a propensão de um funcionário sair ou não da empresa](/rh)
 - [Prevendo a sobrevivência dos passageiros do Titanic](/titanic)
 
 ## Regressão
