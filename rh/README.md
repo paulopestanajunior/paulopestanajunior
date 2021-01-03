@@ -55,6 +55,12 @@ Com isso, teremos um problema de Classificação, para determinar se o funcioná
   
 * Entregáveis:
   * Modelo para futuras previsões
+  
+![](/rh/rh1.png)
+
+![](/rh/rh2.png)
+
+![](/rh/rh3.png)
 
 
 ## Comunicação
