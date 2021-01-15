@@ -33,6 +33,9 @@ Trabalho com análise de dados na área de e-commerce e marketing digital.
 ## Regressão
 - [Prevendo o preço das tarifas de Táxi de New York integrando com Django](/newyork)
 
+## Simulação
+- [Utilizando a simualação de Monte Carlo para prever as ações de uma empresa](https://colab.research.google.com/drive/1V_gzCEALQozgYxQnXY_6tKv88NohAHMa#scrollTo=9QTHl00dZKCT)
+
 # Dashboards
 
 - [Análise de afiliados mensal](/dashboards/dash-an%C3%A1lise-de-afiliados.png)
