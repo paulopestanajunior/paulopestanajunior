@@ -34,7 +34,7 @@ Trabalho com análise de dados na área de e-commerce e marketing digital.
 - [Prevendo o preço das tarifas de Táxi de New York integrando com Django](/newyork)
 
 ## Simulação
-- [Utilizando a simualação de Monte Carlo para prever as ações de uma empresa](https://colab.research.google.com/drive/1V_gzCEALQozgYxQnXY_6tKv88NohAHMa#scrollTo=9QTHl00dZKCT)
+- [Utilizando a simualação de Monte Carlo para prever o valor da ação de uma empresa](https://colab.research.google.com/drive/1V_gzCEALQozgYxQnXY_6tKv88NohAHMa#scrollTo=9QTHl00dZKCT)
 
 # Dashboards
 
