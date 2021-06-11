@@ -29,6 +29,7 @@ Trabalho com análise de dados na área de e-commerce e marketing digital.
 ## Classificação
 - [RH prevendo a propensão de um funcionário sair ou não da empresa](/rh)
 - [Prevendo a sobrevivência dos passageiros do Titanic](/titanic)
+- [Previsão de perda de clientes de um banco usando redes neurais](/bank-churn/bank-churn.ipynb)
 
 ## Regressão
 - [Prevendo o preço das tarifas de Táxi de New York integrando com Django](/newyork)
