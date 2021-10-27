@@ -1,4 +1,14 @@
 
+<p align="center">
+<img src="perfil_p.png" align="center">
+</p>
+
+MSc Candidate em Ciência da Computação no CEFET/RJ | Data Scientist na WMccan | Web Analytics | Google Certified | IBM Certified
+
+Co-fundador do portal [Laboratório Pyrata](https://www.pyratalab.org/)
+
+Trabalho com ciência de dados na área de e-commerce e marketing digital.
+
 <center>
     <table>
         <tr>
@@ -11,15 +21,6 @@
         </tr>   
     </table>
 </center>
-<p align="center">
-<img src="perfil_p.png" align="center">
-</p>
-
-MSc Candidate em Ciência da Computação no CEFET/RJ | Data Scientist na WMccan | Web Analytics | Google Certified | IBM Certified
-
-Co-fundador do portal [Laboratório Pyrata](https://www.pyratalab.org/)
-
-Trabalho com ciência de dados na área de e-commerce e marketing digital.
 
 # Projetos:
 
