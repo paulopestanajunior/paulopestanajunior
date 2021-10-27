@@ -11,8 +11,9 @@
         </tr>   
     </table>
 </center>
-
-<img src="perfil.png">
+<p align="center">
+<img src="perfil_p.png" align="center">
+</p>
 
 MSc Candidate em Ciência da Computação no CEFET/RJ | Data Scientist na WMccan | Web Analytics | Google Certified | IBM Certified
 
