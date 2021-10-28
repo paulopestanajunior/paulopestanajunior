@@ -5,7 +5,7 @@
 
 MSc Candidate em Ciência da Computação no CEFET/RJ | Data Scientist na WMccan | Web Analytics | Google Certified | IBM Certified
 
-Co-fundador do portal [Laboratório Pyrata](https://www.pyratalab.org/)
+Co-fundador do portal [Laboratório Pyrata]()
 
 Trabalho com ciência de dados na área de e-commerce e marketing digital.
 
